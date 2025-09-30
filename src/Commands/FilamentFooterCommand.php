@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AlwaysCurious\FilamentFooter\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentFooterCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-footer';
 
     public $description = 'My command';
 
