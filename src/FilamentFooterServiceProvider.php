@@ -2,9 +2,9 @@
 
 namespace AlwaysCurious\FilamentFooter;
 
+use AlwaysCurious\FilamentFooter\Commands\FilamentFooterCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AlwaysCurious\FilamentFooter\Commands\FilamentFooterCommand;
 
 class FilamentFooterServiceProvider extends PackageServiceProvider
 {
